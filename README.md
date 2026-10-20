@@ -1,8 +1,12 @@
-### Hi, I'm Manuel 👋
+### Hi, I'm Manuel
 
-Platform / DevSecOps engineer based in Marbella, Spain. I work on Kubernetes, AWS and Terraform, and I care about security being part of the platform rather than something bolted on afterwards. 
+Platform / DevSecOps engineer. I work on Kubernetes, AWS and Terraform, and I care about security being part of the platform rather than something bolted on afterwards. 
 
 In my spare time I build infrastructure and security tools in Go and Python, mostly to understand how things work one layer down.
+
+#### Articles
+
+I write about what I find along the way: [manumanutiti.github.io](https://manumanutiti.github.io/)
 
 #### What I'm building
 
